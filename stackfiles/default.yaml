@@ -1,0 +1,13 @@
+type: app
+description: Create minimal structure to OSS Project
+# template used to create the project
+template:
+inputs:
+  project_version: "0.0.1"
+  project_description: "Open Source Project Sample"
+  author_name: "John Doe"
+  author_email: "johndoe@mail.com"
+# list of plugins to be applied after project creation
+plugins:
+  - plugin: stackspot-oss-stack/oss-files-plugin
+  - plugin: stackspot-oss-stack/oss-pipeline-plugin
