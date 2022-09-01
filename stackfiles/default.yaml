@@ -1,7 +1,7 @@
 type: app
 description: Create minimal structure to OSS Project
 # template used to create the project
-template:
+template: stackspot-oss-stack/oss-template
 inputs:
   project_version: "0.0.1"
   project_description: "Open Source Project Sample"
