@@ -1,5 +1,5 @@
-name: oss-template
-description: Default template to Open Source project.
+name: template-1
+description: Descrição do template 1 da stack
 types:
   - app-template
 inputs:

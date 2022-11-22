@@ -1,6 +1,6 @@
-name: oss-pipeline-plugin
-description: Plugin to add basic pipeline to Open Source Projects
-display-name: OSS Pipeline
+name: plugin-1
+description: Descrição do Plugin 01
+display-name: Plugin 01
 picture: "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/240_Opensource_Open_Source-512.png"
 category: Backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility:
@@ -13,4 +13,3 @@ technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/
   - Api
 types:
   - app
-
